@@ -12,6 +12,7 @@ public class Ejercicio1 {
 			
 			for(long elemento: tabla) {
 				suma+=elemento;
+				//
 			}
 			
 			
